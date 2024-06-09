@@ -1,0 +1,9 @@
+create table student (name varchar(40), fname varchar(40), rollno varchar(20), dob varchar(40), address varchar(100), phone varchar(20), email varchar(40), city varchar(20), category varchar(20), gender varchar(20), semester varchar(20), branch varchar(40), minority varchar(40), otherminority varchar(40));
+
+
+create table teachers(name varchar(40), designation varchar(40), qualification varchar(40), dob varchar(40), address varchar(100), phone varchar(20), email varchar(40), city varchar(20), category varchar(20), gender varchar(20), yearofexperience varchar(20), department varchar(40), jod varchar(40));
+
+
+create table studentleave(rollno varchar(20), date varchar(50), duration varchar(20));
+
+create table teachersleave(name varchar(20), date varchar(50), duration varchar(20));
