@@ -6,7 +6,7 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
 🚀 Key Features
 🔐 Authentication Module
 
-Secure login system for authorized users
+ **Secure login system for authorized users
 
 Prevents unauthorized access to academic records
 
