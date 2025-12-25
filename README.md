@@ -10,7 +10,7 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
 - Role-based access control
 - MySQL database integration using JDBC
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
  - Category	Technologies
  - Language	Java
  - GUI	Java Swing
@@ -19,7 +19,7 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
  - IDE	IntelliJ / Eclipse
  - OS	Windows
 
-📸 Project Screenshots
+## 📸 Project Screenshots
 
 🔐 Login Screen
 
