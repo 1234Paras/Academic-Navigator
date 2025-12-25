@@ -52,8 +52,10 @@ OS	Windows
 🔐 Login Screen
 <img width="688" height="357" alt="image" src="https://github.com/user-attachments/assets/75d3f9d1-a823-4b9f-b8ec-4a64bad4eb49" />
 
+
 🏫 Main Dashboard
 <img width="763" height="487" alt="image" src="https://github.com/user-attachments/assets/d9cd4512-b974-4bba-8c31-205e0e42af16" />
+
 
 ➕ Add Student Module
 
