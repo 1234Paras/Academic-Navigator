@@ -27,6 +27,7 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
 
 
 🏫 Main Dashboard
+
 <img width="763" height="487" alt="image" src="https://github.com/user-attachments/assets/d9cd4512-b974-4bba-8c31-205e0e42af16" />
 
 
@@ -46,7 +47,7 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
 
 🔄 Update Student Details
 
-💻 How to Run the Project
+## 💻 How to Run the Project
 
 Clone the repository
 
@@ -61,7 +62,7 @@ Update DB credentials in JDBC connection file
 
 Run Splash.java
 
-📌 Database Design
+## 📌 Database Design
 
 Normalized relational database schema
 
