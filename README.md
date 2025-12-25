@@ -1,4 +1,4 @@
-#📘 Academic Navigator – College Management System
+📘# Academic Navigator – College Management System
 
 A Java-based desktop application designed to efficiently manage college academic and administrative data, including students, teachers, examinations, marks, and leave records.
 This project demonstrates core Java, JDBC, SQL, and GUI development skills through a real-world academic management use case.
