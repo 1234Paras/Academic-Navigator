@@ -3,40 +3,12 @@
 A Java-based desktop application designed to efficiently manage college academic and administrative data, including students, teachers, examinations, marks, and leave records.
 This project demonstrates core Java, JDBC, SQL, and GUI development skills through a real-world academic management use case.
 
-🚀 Key Features
-🔐 Authentication Module
-
- **Secure login system for authorized users
-
-Prevents unauthorized access to academic records
-
-🧑‍🎓 Student Management
-
-Add, view, update, and search student details
-
-Manage personal, academic, and category-wise data
-
-Semester and branch-based student records
-
-👨‍🏫 Teacher Management
-
-Add and manage teacher profiles
-
-Store qualification, department, experience, and joining details
-
-📝 Leave Management
-
-Students can apply for leave with date and duration
-
-Centralized leave record management
-
-📊 Examination & Result Management
-
-Enter semester-wise subject marks
-
-View examination results using roll number
-
-Automated result display with subject-wise marks
+## 🚀 Features
+- Secure login and authentication system
+- Add, update, delete, and view student records
+- Academic record and user management
+- Role-based access control
+- MySQL database integration using JDBC
 
 🛠️ Tech Stack
 Category	Technologies
