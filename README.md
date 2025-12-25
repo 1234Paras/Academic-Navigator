@@ -11,13 +11,13 @@ This project demonstrates core Java, JDBC, SQL, and GUI development skills throu
 - MySQL database integration using JDBC
 
 🛠️ Tech Stack
-Category	Technologies
-Language	Java
-GUI	Java Swing
-Database	MySQL
-Connectivity	JDBC
-IDE	IntelliJ / Eclipse
-OS	Windows
+ - Category	Technologies
+ - Language	Java
+ - GUI	Java Swing
+ - Database	MySQL
+ - Connectivity	JDBC
+ - IDE	IntelliJ / Eclipse
+ - OS	Windows
 
 📸 Project Screenshots
 
